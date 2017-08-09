@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="HorizontalProgresUnReachColor" format="color"></attr>
+    <attr name="HorizontalProgresUnReachHeight" format="dimension"></attr>
+    <attr name="HorizontalProgresReachColor" format="color"></attr>
+    <attr name="HorizontalProgresReachHeight" format="dimension"></attr>
+    <attr name="HorizontalProgresTextColor" format="color"></attr>
+    <attr name="HorizontalProgresTextSize" format="dimension"></attr>
+    <attr name="HorizontalProgresTextOffset" format="dimension"></attr>
+
+
+    <declare-styleable name="CustomHorizontalProgresStyle">
+        <attr name="HorizontalProgresUnReachColor" ></attr>
+        <attr name="HorizontalProgresUnReachHeight" ></attr>
+        <attr name="HorizontalProgresReachColor" ></attr>
+        <attr name="HorizontalProgresReachHeight" ></attr>
+        <attr name="HorizontalProgresTextColor" ></attr>
+        <attr name="HorizontalProgresTextSize" ></attr>
+        <attr name="HorizontalProgresTextOffset"></attr>
+
+    </declare-styleable>
+
+</resources>
