@@ -12,7 +12,21 @@
         android:layout_height="wrap_content"
         android:orientation="vertical" >
 
-        <practice.csy.com.customprogress.view.CustomHorizontalProgres
+
+        <practice.csy.com.customprogress.view.CustomHorizontalProgresNoNum
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:id="@+id/horizontalProgress01"
+            android:progress="0"
+            app:HorizontalProgresReachColor="#FF0000"
+            app:HorizontalProgresUnReachColor="#cab0b0"
+            app:HorizontalProgresTextColor="#FF0000"
+            android:layout_width="200dp"
+            android:layout_height="30dp"/>
+
+
+        <practice.csy.com.customprogress.view.CustomHorizontalProgresWithNum
             android:layout_marginTop="20dp"
             android:paddingLeft="10dp"
             android:paddingRight="10dp"
@@ -23,10 +37,10 @@
             app:HorizontalProgresTextColor="#FF0000"
             android:layout_width="200dp"
             android:layout_height="30dp">
-        </practice.csy.com.customprogress.view.CustomHorizontalProgres>
+        </practice.csy.com.customprogress.view.CustomHorizontalProgresWithNum>
 
 
-        <practice.csy.com.customprogress.view.CustomHorizontalProgres
+        <practice.csy.com.customprogress.view.CustomHorizontalProgresWithNum
             android:paddingLeft="10dp"
             android:paddingRight="10dp"
             android:layout_marginTop="20dp"
@@ -39,9 +53,9 @@
             android:layout_width="200dp"
             android:layout_height="30dp">
 
-        </practice.csy.com.customprogress.view.CustomHorizontalProgres>
+        </practice.csy.com.customprogress.view.CustomHorizontalProgresWithNum>
 
-        <practice.csy.com.customprogress.view.CustomHorizontalProgres
+        <practice.csy.com.customprogress.view.CustomHorizontalProgresWithNum
             android:paddingLeft="10dp"
             android:paddingRight="10dp"
             android:layout_marginTop="20dp"
@@ -49,15 +63,66 @@
             android:progress="0"
             app:HorizontalProgresReachColor="#00ffaa"
             app:HorizontalProgresUnReachColor="#0b1949"
-            app:HorizontalProgresUnReachHeight="15dp"
-            app:HorizontalProgresReachHeight="15dp"
+            app:HorizontalProgresUnReachHeight="10dp"
+            app:HorizontalProgresReachHeight="10dp"
             app:HorizontalProgresTextColor="#00ffaa"
             android:layout_width="200dp"
             android:layout_height="30dp">
-        </practice.csy.com.customprogress.view.CustomHorizontalProgres>
+        </practice.csy.com.customprogress.view.CustomHorizontalProgresWithNum>
 
 
 
+        <practice.csy.com.customprogress.view.RoundlProgresWithNum
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:layout_marginTop="20dp"
+            android:id="@+id/mRoundlProgresWithNum31"
+            android:progress="50"
+            android:max="360"
+            app:HorizontalProgresReachColor="#1900ff"
+            app:HorizontalProgresUnReachColor="#0b1949"
+            app:HorizontalProgresTextColor="#1900ff"
+            app:CustomUnReachStart="-90"
+            app:CustomUnReachEnd="270"
+            android:layout_width="50dp"
+            android:layout_height="50dp">
+        </practice.csy.com.customprogress.view.RoundlProgresWithNum>
+
+
+        <practice.csy.com.customprogress.view.RoundlProgresWithNum
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:layout_marginTop="20dp"
+            android:id="@+id/mRoundlProgresWithNum32"
+            android:progress="0"
+            android:max="360"
+            app:HorizontalProgresReachColor="#ffb700"
+            app:HorizontalProgresUnReachColor="#95979f"
+            app:HorizontalProgresTextColor="#ffb700"
+            app:CustomUnReachStart="-90"
+            app:CustomUnReachEnd="270"
+            app:CustomHasProgressNum="true"
+            android:layout_width="150dp"
+            android:layout_height="150dp">
+        </practice.csy.com.customprogress.view.RoundlProgresWithNum>
+
+
+        <practice.csy.com.customprogress.view.RoundlProgresWithNum
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:layout_marginTop="20dp"
+            android:id="@+id/mRoundlProgresWithNum33"
+            android:progress="0"
+            android:max="360"
+            app:HorizontalProgresReachColor="#ae1634"
+            app:HorizontalProgresUnReachColor="#95979f"
+            app:HorizontalProgresTextColor="#ae1634"
+            app:CustomUnReachStart="-225"
+            app:CustomUnReachEnd="45"
+            app:CustomHasProgressNum="false"
+            android:layout_width="150dp"
+            android:layout_height="150dp">
+        </practice.csy.com.customprogress.view.RoundlProgresWithNum>
 
     </LinearLayout>
 </ScrollView>
