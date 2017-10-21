@@ -1,19 +1,26 @@
-×Ô¶¨ÒåË®Æ½´øÊı×ÖµÄ½ø¶ÈÌõÒÔ¼°×Ô¶¨ÒåÔ²ĞÎ´øÊı×ÖµÄ½ø¶ÈÌõ			
+è‡ªå®šä¹‰æ°´å¹³å¸¦æ•°å­—çš„è¿›åº¦æ¡ä»¥åŠè‡ªå®šä¹‰åœ†å½¢å¸¦æ•°å­—çš„è¿›åº¦æ¡			
 
 
-**ÏÈÉÏĞ§¹ûÍ¼**			
+**å…ˆä¸Šæ•ˆæœå›¾**			
 
 
-![Ë®Æ½¼ÓÔ²ĞÎ½ø¶ÈĞ§¹ûÍ¼.gif](http://upload-images.jianshu.io/upload_images/2704327-e90a03adaccc3e29.gif?imageMogr2/auto-orient/strip)			
-
-
-
-[Ïê¼ûÎÒµÄ²©¿Í](http://blog.csdn.net/e_inch_photo)				
-
-
-[1.Android×Ô¶¨ÒåË®Æ½½ø¶ÈÌõ](http://blog.csdn.net/e_inch_photo/article/details/77017219)					
-
-[2.Android×Ô¶¨ÒåÔ²ĞÎ½ø¶ÈÌõ](http://blog.csdn.net/e_inch_photo/article/details/77017202)				
+![æ°´å¹³åŠ åœ†å½¢è¿›åº¦æ•ˆæœå›¾.gif](http://upload-images.jianshu.io/upload_images/2704327-e90a03adaccc3e29.gif?imageMogr2/auto-orient/strip)			
 
 
 
+[è¯¦è§æˆ‘çš„åšå®¢](http://blog.csdn.net/e_inch_photo)				
+
+
+[1.Androidè‡ªå®šä¹‰æ°´å¹³è¿›åº¦æ¡](http://blog.csdn.net/e_inch_photo/article/details/77017219)					
+
+[2.Androidè‡ªå®šä¹‰åœ†å½¢è¿›åº¦æ¡](http://blog.csdn.net/e_inch_photo/article/details/77017202)				
+
+
+
+![](http://upload-images.jianshu.io/upload_images/2704327-b5b62bcf43f76f74.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+[åšå®¢CSDN](http://blog.csdn.net/e_inch_photo)		
+
+[æˆ‘çš„ç®€ä¹¦](http://www.jianshu.com/u/303ec9abdc08)		
+
+[æˆ‘çš„GitHub,å–œæ¬¢çš„è¯ç»™ä¸ªstarå§](https://github.com/chenshouyin)
